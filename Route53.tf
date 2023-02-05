@@ -1,5 +1,5 @@
 variable "domain_name" {
-  default    = "muyiwacloudjourney.link"
+  default    = "muyiwacloudjourney.me"
   type        = string
   description = "Domain name"
 }
